@@ -1,0 +1,15 @@
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\bin\Debug\net6.0\aaaaaaaaa.exe
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\bin\Debug\net6.0\aaaaaaaaa.deps.json
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\bin\Debug\net6.0\aaaaaaaaa.runtimeconfig.json
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\bin\Debug\net6.0\aaaaaaaaa.dll
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\bin\Debug\net6.0\aaaaaaaaa.pdb
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.csproj.AssemblyReference.cache
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.AssemblyInfoInputs.cache
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.AssemblyInfo.cs
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.dll
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\refint\aaaaaaaaa.dll
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.pdb
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\aaaaaaaaa.genruntimeconfig.cache
+C:\Users\Belinda\source\repos\aaaaaaaaa\aaaaaaaaa\obj\Debug\net6.0\ref\aaaaaaaaa.dll
